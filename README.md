@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/JavScript-F7DF1E?style=badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=javascript&logoColor=black">
 <!--
 **MinhoJJJ/MinhoJJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
