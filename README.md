@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript1&logoColor=black">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript2&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <!--
 **MinhoJJJ/MinhoJJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
