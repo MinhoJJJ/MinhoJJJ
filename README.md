@@ -1,5 +1,11 @@
 Welcome! MinhoJJJ's git
 
+<a href="https://blog.naver.com/sucessmh25/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=[https://blog.naver.com/sucessmh25/]
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinhoJJJ&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJJ&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
