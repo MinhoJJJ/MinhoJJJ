@@ -1,10 +1,5 @@
 Welcome! MinhoJJJ's git
 
-<a href="https://blog.naver.com/sucessmh25/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=[https://blog.naver.com/sucessmh25/]
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MinhoJJJ&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJJ&layout=compact&theme=dracula)](https://github.com/metleeha)
 
